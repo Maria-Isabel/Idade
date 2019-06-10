@@ -1,0 +1,7 @@
+C:\Users\Lirian\source\repos\Bel\bin\Debug\Bel.exe.config
+C:\Users\Lirian\source\repos\Bel\bin\Debug\Bel.exe
+C:\Users\Lirian\source\repos\Bel\bin\Debug\Bel.pdb
+C:\Users\Lirian\source\repos\Bel\obj\Debug\Bel.csprojAssemblyReference.cache
+C:\Users\Lirian\source\repos\Bel\obj\Debug\Bel.csproj.CoreCompileInputs.cache
+C:\Users\Lirian\source\repos\Bel\obj\Debug\Bel.exe
+C:\Users\Lirian\source\repos\Bel\obj\Debug\Bel.pdb
